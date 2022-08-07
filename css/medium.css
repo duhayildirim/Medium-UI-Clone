@@ -1,6 +1,12 @@
+body {
+  font-family: 'Spectral', serif;
+}
 .bg-yellow {
   background-color: #FFC017;
 }
 .border-bottom-dark {
   border-bottom: 1px solid rgba(41, 41, 41, 41);
+}
+.fw-600 {
+  font-weight: 600;
 }
