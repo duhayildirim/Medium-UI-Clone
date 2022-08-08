@@ -10,3 +10,6 @@ body {
 .fw-600 {
   font-weight: 600;
 }
+.aside-buttons > li {
+  margin-bottom: 10px;
+}
